@@ -15,8 +15,8 @@
         * API_KEY= для получения API зарегистрироватьс на сайте [OMDb API](https://www.omdbapi.com/)
 
 В фаиле app.py если требуется поправляем или указываем прямой путь до:
-    - file = open("..\\misc\\images\\cinema.gif", "rb")
-    - file_2 = open("..\\misc\\images\\prog.gif", "rb")
+- file = open("..\\misc\\images\\cinema.gif", "rb")
+- file_2 = open("..\\misc\\images\\prog.gif", "rb")
 
 3. Запуск сервиса:
     Создаем терминал.
